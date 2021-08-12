@@ -1,6 +1,10 @@
 {
   "version": 2,
   "projects": {
+    "apis": {
+      "root": "apis",
+      "projectType": "library"
+    },
     "api": {
       "root": "apps/api",
       "sourceRoot": "apps/api/src",

@@ -27,7 +27,11 @@
     ]
   },
   "projects": {
+    "apis": {
+      "tags": []
+    },
     "api": {
+      "implicitDependencies": ["apis"],
       "tags": []
     }
   }
